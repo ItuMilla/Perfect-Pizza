@@ -1,6 +1,6 @@
 body {
     background-color: #FF7126;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: fantasy;
   
 }
 
@@ -25,7 +25,7 @@ body {
     margin-bottom: 1em; 
     border-radius: 1em;
     width: auto;
-
+    font-style: italic;
 }
 
 .medium_pizza {
@@ -36,6 +36,8 @@ body {
     margin-bottom: 1em; 
     border-radius: 1em;
     width: auto;
+    font-style: italic;
+    
 }
     
 
@@ -46,7 +48,8 @@ body {
     padding: 1em;
     margin-bottom: 1em; 
     border-radius: 1em;
-    width: auto;  
+    width: auto; 
+    font-style: italic;
 }
 
 /* .contact_us { */
@@ -79,5 +82,7 @@ body {
     /* position: absolute; */
     width: auto;
     height: 121.11px;
+    width: auto;
+    font-style: italic;
 
 }
